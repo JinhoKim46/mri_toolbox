@@ -1,35 +1,15 @@
 
-# MRI Toolbox <p align="left">
-  <!-- License -->
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
-  </a>
-
-  <!-- Python Version -->
+# MRI Toolbox 
+<p align="left">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python 3.10+">
-
-
-  <!-- PyPI Downloads -->
-  <a href="https://pypi.org/project/mri-toolbox/">
-    <img src="https://img.shields.io/pypi/dm/mri-toolbox.svg" alt="PyPI downloads">
-  </a>
-
-  <!-- Issues -->
-  <a href="https://github.com/JinhoKim46/mri_toolbox/issues">
-    <img src="https://img.shields.io/github/issues/JinhoKim46/mri_toolbox.svg" alt="Issues">
-  </a>
-
-  <!-- Stars -->
-  <a href="https://github.com/JinhoKim46/mri_toolbox/stargazers">
-    <img src="https://img.shields.io/github/stars/JinhoKim46/mri_toolbox.svg" alt="Stars">
-  </a>
-
-  <!-- Last Commit -->
+  <a href="https://pypi.org/project/mri-toolbox/"><img src="https://img.shields.io/pypi/dm/mri-toolbox.svg" alt="PyPI downloads"></a>
+  <a href="https://github.com/JinhoKim46/mri_toolbox/issues"><img src="https://img.shields.io/github/issues/JinhoKim46/mri_toolbox.svg" alt="Issues"></a>
+  <a href="https://github.com/JinhoKim46/mri_toolbox/stargazers"><img src="https://img.shields.io/github/stars/JinhoKim46/mri_toolbox.svg" alt="Stars"></a>
   <img src="https://img.shields.io/github/last-commit/JinhoKim46/mri_toolbox.svg" alt="Last Commit">
 </p>
 
 ---
-
 ## Overview
 
 **MRI Toolbox** is a Python package for MRI reconstruction and visualization.  
